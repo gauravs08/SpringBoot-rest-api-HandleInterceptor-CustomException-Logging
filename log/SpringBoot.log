@@ -1,0 +1,4 @@
+2019-05-16 10:59:30.823 ERROR 17524 --- [http-nio-8080-exec-1] c.gauravs08.SpringBoot.demo.Application  : Error In / route
+2019-05-16 11:06:45.214 ERROR 17524 --- [http-nio-8080-exec-10] c.gauravs08.SpringBoot.demo.Application  : Car Already in Garage:null
+2019-05-16 11:07:14.494 ERROR 17524 --- [http-nio-8080-exec-3] c.gauravs08.SpringBoot.demo.Application  : Car Already in Garage:null
+2019-05-16 11:08:38.104 ERROR 17524 --- [http-nio-8080-exec-4] c.gauravs08.SpringBoot.demo.Application  : Car not in Garage:null
