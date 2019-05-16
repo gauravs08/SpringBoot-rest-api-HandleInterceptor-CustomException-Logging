@@ -22,7 +22,7 @@ public class SecurityConfig  extends WebSecurityConfigurerAdapter{
     public void configureGlobal(AuthenticationManagerBuilder auth)
             throws Exception
     {
-       
+       // Add password storage format, for plain text, add {noop}
     	auth.inMemoryAuthentication()
         .withUser("user").password("{noop}password").roles("USER")
         .and()
