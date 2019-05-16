@@ -1,7 +1,11 @@
 # SpringBoot-rest-api-HandleInterceptor-CustomException-Logging
 SpringBoot-rest-api-HandleInterceptor-CustomException-Logging
 #Springboot-rest-api-HandleInterceptor-CustomException-Logging
+#using basic Auth 
+username-admin
+password-password
 
+add those two in postman Authorization.
 ### OverView
 This app used Spring boot to do following services on car object
 Exception handled for below cases
